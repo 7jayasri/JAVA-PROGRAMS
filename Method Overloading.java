@@ -14,7 +14,7 @@ public class Mol {
         obj.multiply(4, 5, 6);   
     }
 }
-Output:
+//Output:
 Multiplication is 20
 Multiplication is 120
 
